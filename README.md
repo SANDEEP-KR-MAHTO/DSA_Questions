@@ -11,6 +11,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0168-excel-sheet-column-title) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0058-length-of-last-word](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0168-excel-sheet-column-title) |
 ## Array
 |  |
 | ------- |
