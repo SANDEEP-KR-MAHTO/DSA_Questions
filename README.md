@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0125-valid-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
