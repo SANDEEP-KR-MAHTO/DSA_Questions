@@ -7,6 +7,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
