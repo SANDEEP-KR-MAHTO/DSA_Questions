@@ -34,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
@@ -52,6 +53,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
