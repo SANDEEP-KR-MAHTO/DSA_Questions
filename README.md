@@ -10,6 +10,7 @@
 | [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
 ## Math
 |  |
@@ -34,6 +35,7 @@
 | [0290-word-pattern](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
 ## Array
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -67,6 +70,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
