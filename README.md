@@ -12,6 +12,7 @@
 | [0383-ransom-note](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
@@ -40,10 +41,12 @@
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0014-longest-common-prefix) |
+| [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
