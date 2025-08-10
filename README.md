@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0075-sort-colors) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 ## Trie
@@ -62,6 +63,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0125-valid-palindrome) |
