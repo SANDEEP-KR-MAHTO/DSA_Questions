@@ -17,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0168-excel-sheet-column-title) |
