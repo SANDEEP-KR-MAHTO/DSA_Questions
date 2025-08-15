@@ -57,6 +57,7 @@
 | [0014-longest-common-prefix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0075-sort-colors) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 ## Trie
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
