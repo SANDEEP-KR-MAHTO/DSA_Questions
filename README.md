@@ -20,6 +20,7 @@
 | [0007-reverse-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0171-excel-sheet-column-number) |
@@ -58,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0075-sort-colors) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 ## Trie
