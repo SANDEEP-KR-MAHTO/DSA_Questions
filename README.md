@@ -62,6 +62,7 @@
 | [0066-plus-one](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0136-single-number) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
