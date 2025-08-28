@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0290-word-pattern) |
@@ -64,6 +65,7 @@
 | [0088-merge-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
@@ -102,11 +104,13 @@
 | ------- |
 | [0075-sort-colors](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
@@ -130,4 +134,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
