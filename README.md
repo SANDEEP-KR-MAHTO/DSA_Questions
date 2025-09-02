@@ -58,6 +58,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0027-remove-element) |
@@ -77,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -126,6 +128,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
