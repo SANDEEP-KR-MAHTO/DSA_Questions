@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0205-isomorphic-strings) |
@@ -58,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
