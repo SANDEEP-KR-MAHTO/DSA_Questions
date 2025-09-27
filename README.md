@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0217-contains-duplicate) |
@@ -70,6 +71,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0088-merge-sorted-array) |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
