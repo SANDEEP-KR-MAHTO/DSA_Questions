@@ -12,6 +12,7 @@
 | [0205-isomorphic-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -28,6 +29,7 @@
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1013-fibonacci-number) |
 ## String
@@ -79,6 +81,7 @@
 | [0136-single-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
@@ -110,6 +113,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -126,6 +130,7 @@
 | [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -158,6 +163,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
