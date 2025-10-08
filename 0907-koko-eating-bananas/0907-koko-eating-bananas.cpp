@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    bool canFinish(vector<int> piles, int h, int speed){
+    bool canFinish(vector<int>& piles, int h, int speed){
         long hours = 0;
         for(int p : piles){
             hours += ceil((double)p/speed);
