@@ -88,6 +88,7 @@
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
+| [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 ## Trie
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0162-find-peak-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
+| [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
