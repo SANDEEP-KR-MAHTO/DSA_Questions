@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
@@ -88,6 +89,7 @@
 | [0217-contains-duplicate](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
@@ -112,6 +114,7 @@
 | [0344-reverse-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
@@ -142,6 +145,7 @@
 | [0242-valid-anagram](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -180,6 +184,7 @@
 | [0162-find-peak-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
