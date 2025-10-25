@@ -94,6 +94,7 @@
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
@@ -153,6 +154,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 ## Counting
 |  |
@@ -165,12 +167,14 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
