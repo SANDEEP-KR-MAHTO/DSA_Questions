@@ -23,6 +23,7 @@
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
+| [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
+| [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
+| [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 ## String Matching
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
+| [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
