@@ -103,6 +103,7 @@
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -207,6 +210,7 @@
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
