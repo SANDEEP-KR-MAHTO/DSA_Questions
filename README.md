@@ -21,6 +21,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
@@ -97,6 +98,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -240,4 +243,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
