@@ -225,6 +225,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -247,4 +248,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
