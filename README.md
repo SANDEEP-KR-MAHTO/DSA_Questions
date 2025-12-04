@@ -193,6 +193,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0226-invert-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
