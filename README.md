@@ -101,6 +101,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
+| [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Interactive
 |  |
