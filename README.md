@@ -70,6 +70,7 @@
 | [0459-repeated-substring-pattern](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
+| [0541-reverse-string-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -135,6 +136,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0541-reverse-string-ii) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
