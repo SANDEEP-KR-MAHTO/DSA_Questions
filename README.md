@@ -95,6 +95,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0217-contains-duplicate) |
@@ -216,6 +217,7 @@
 | [0069-sqrtx](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
