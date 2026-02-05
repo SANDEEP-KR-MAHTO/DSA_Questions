@@ -107,6 +107,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
@@ -227,6 +228,7 @@
 | [0367-valid-perfect-square](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
