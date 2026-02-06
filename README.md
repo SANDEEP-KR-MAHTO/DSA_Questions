@@ -113,6 +113,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [1052-grumpy-bookstore-owner](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1052-grumpy-bookstore-owner) |
@@ -236,6 +237,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
