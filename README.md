@@ -105,6 +105,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0436-find-right-interval) |
 | [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -175,6 +176,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0436-find-right-interval) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
@@ -227,6 +229,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
