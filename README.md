@@ -111,6 +111,7 @@
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -144,6 +145,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0541-reverse-string-ii) |
+| [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
@@ -179,6 +181,7 @@
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0436-find-right-interval) |
+| [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
@@ -235,6 +238,7 @@
 | [0436-find-right-interval](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -270,6 +274,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [1052-grumpy-bookstore-owner](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Interactive
@@ -325,4 +330,8 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0429-n-ary-tree-level-order-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
