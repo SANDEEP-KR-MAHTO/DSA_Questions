@@ -111,6 +111,7 @@
 | [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -146,6 +147,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -182,6 +184,7 @@
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0436-find-right-interval) |
+| [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -204,6 +207,7 @@
 | [0011-container-with-most-water](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +244,7 @@
 | [0436-find-right-interval](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
