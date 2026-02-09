@@ -122,6 +122,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Trie
@@ -149,6 +150,7 @@
 | [0541-reverse-string-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
@@ -187,6 +189,7 @@
 | [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
@@ -253,6 +256,7 @@
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
