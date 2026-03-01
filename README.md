@@ -123,6 +123,7 @@
 | [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -268,6 +269,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -306,6 +308,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Interactive
@@ -367,4 +370,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
