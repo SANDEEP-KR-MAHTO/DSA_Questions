@@ -176,6 +176,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
@@ -345,6 +346,7 @@
 | [0141-linked-list-cycle](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
