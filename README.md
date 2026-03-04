@@ -117,6 +117,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
@@ -165,6 +166,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -190,6 +192,7 @@
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -272,6 +275,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0367-valid-perfect-square) |
