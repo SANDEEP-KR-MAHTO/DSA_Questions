@@ -25,6 +25,7 @@
 | [0383-ransom-note](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
@@ -72,6 +73,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0434-number-of-segments-in-a-string) |
@@ -309,6 +311,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
