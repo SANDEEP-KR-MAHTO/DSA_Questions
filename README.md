@@ -145,6 +145,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Trie
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0415-add-strings) |
+| [3477-fruits-into-baskets-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -413,4 +416,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
