@@ -139,6 +139,7 @@
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1052-grumpy-bookstore-owner) |
@@ -248,6 +249,7 @@
 | [0152-maximum-product-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -320,6 +323,7 @@
 | [0053-maximum-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -429,4 +433,8 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/3477-fruits-into-baskets-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
