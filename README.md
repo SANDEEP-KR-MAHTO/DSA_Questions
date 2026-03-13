@@ -29,6 +29,7 @@
 | [0409-longest-palindrome](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 ## Math
@@ -130,6 +131,7 @@
 | [0496-next-greater-element-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -428,6 +430,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
 ## Segment Tree
 |  |
