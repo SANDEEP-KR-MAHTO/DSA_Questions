@@ -143,6 +143,7 @@
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1052-grumpy-bookstore-owner) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -252,6 +253,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1013-fibonacci-number) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
