@@ -137,6 +137,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -432,6 +433,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0724-find-pivot-index) |
 ## Segment Tree
 |  |
 | ------- |
