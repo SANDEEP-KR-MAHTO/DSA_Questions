@@ -31,6 +31,7 @@
 | [0500-keyboard-row](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2634-minimum-common-value](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2634-minimum-common-value) |
 ## Math
 |  |
@@ -144,6 +145,7 @@
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -434,6 +436,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Segment Tree
 |  |
 | ------- |
