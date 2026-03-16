@@ -85,6 +85,7 @@
 | [0520-detect-capital](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0541-reverse-string-ii) |
+| [0709-to-lower-case](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
