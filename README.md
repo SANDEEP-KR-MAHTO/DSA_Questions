@@ -405,6 +405,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -424,6 +425,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0226-invert-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -437,6 +439,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -461,4 +464,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
