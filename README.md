@@ -147,6 +147,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
@@ -269,6 +270,7 @@
 | [0152-maximum-product-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1013-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
