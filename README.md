@@ -132,6 +132,7 @@
 | [0268-missing-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
@@ -270,6 +271,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -446,6 +448,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Heap (Priority Queue)
 |  |
