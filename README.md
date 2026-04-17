@@ -41,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0069-sqrtx) |
@@ -267,6 +268,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -500,4 +502,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0692-top-k-frequent-words) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
