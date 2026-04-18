@@ -117,6 +117,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0136-single-number) |
@@ -272,6 +273,7 @@
 | [0062-unique-paths](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0152-maximum-product-subarray) |
