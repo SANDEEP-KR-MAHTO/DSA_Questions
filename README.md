@@ -162,6 +162,7 @@
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -350,6 +351,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/0924-fair-candy-swap) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SANDEEP-KR-MAHTO/DSA_Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
